@@ -1,3 +1,15 @@
 h1 {
   color: red;
 }
+
+.residents-container > div {
+  box-sizing: border-box;
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+}
+
+.residents-container > div > div {
+  border: 1px solid black;
+  width: 33.3%;
+}
