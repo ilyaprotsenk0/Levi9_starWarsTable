@@ -1,6 +1,6 @@
 body {
   font-family: "Courier New", monospace;
-  background: url("../img/background.jpg");
+  background: url(b211fc0645e20fb74453.jpg);
 }
 
 header,
@@ -101,7 +101,7 @@ h1 {
   display: block;
   content: "";
   position: absolute;
-  background-image: url("../img/death_star_icon.svg");
+  background-image: url(00c91990b2beec25ac4d.svg);
   background-size: 48px 48px;
   height: 48px;
   width: 48px;
